@@ -40,7 +40,7 @@ Exploratory Advanced Research Award DTFH6115H00006, with cost sharing by the Pal
 ## Getting Started
 
 To get started, clone the repositories for the front end, API, and algorithms servers. 
-Then go to the [Wiki](#Wiki) for detailed instruction.
+Then go to the [Wiki](#wiki) for detailed instruction.
 
 - [Video Query Client](https://github.com/PARC-projects/video-query-client-web)
 - [Video Query API](https://github.com/PARC-projects/video-query-api)
