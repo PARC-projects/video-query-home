@@ -3,17 +3,16 @@
         - Add a "Getting Started" note and point to getting started in this wiki.
         - Migrate wiki to "Home" wiki.
 
-
 # Video Query Home
 
 Software for agile example-driven search of video datasets. 
 
 _**How it works:**_ The user provides an example of a
-video clip of interest, and the software searches for and returns examples of similar clips in the dataset. 
+video clip of interest, and the software searches for and returns examples of similar clips. 
 The user then gives feedback
 on which results match the user's intended search goal. Based on the user's feedback, the software performs another 
 round of search. After a reasonable number of rounds, the design intent is for the software to be able to 
-query the entire dataset for all matching clips with a high degree of accuracy. 
+query the entire dataset for all matching clips and achieve a high degree of accuracy. 
 
 The collaborative search approach
 is more agile than conventional supervised learning of video actions.  It does not require an upfront specification
@@ -23,12 +22,6 @@ are important to match, since the user can experiment while giving feedback.
 _**Overview of Project:**_ The front end is an Angular 6.x application. It calls the RESTful Video Query API, 
 which uses Video Query Algorithms to perform deep learning calculations. 
 The API can also be used independently of the front end provided in this project. 
-
-The GitHub repositories for the front end, API, and Algorithms are at
-
-- [Video Query Client](https://github.com/PARC-projects/video-query-client-web)
-- [Video Query API](https://github.com/PARC-projects/video-query-api)
-- [Video Query Algorithms](https://github.com/PARC-projects/video-query-algorithms)
 
 ![image](./High-level architecture.png)
 
@@ -41,17 +34,17 @@ For a more detailed description of the Video Query algorithms, please see the re
 "Temporal segment networks: Towards good practices for deep action recognition." 
 In European Conference on Computer Vision, pp. 20-36. Springer, Cham, 2016.
 
-
-This front end calls the RESTful Video Query API, which uses Video Query Algorithms.
-The API can be used independently as well, for video querying independent of this front end.
-The code and documentation for the API and Algorithms are at
-
-
-
-
-
 _**Acknowledgement:**_ This project was funded in part by the US Department of Transportation Federal Highway Administration
 Exploratory Advanced Research Award DTFH6115H00006, with cost sharing by the Palo Alto Research Center.
+
+## Getting Started
+
+To get started, clone the repositories for the front end, API, and algorithms servers. 
+Then go to the [Wiki](#Wiki) for detailed instruction.
+
+- [Video Query Client](https://github.com/PARC-projects/video-query-client-web)
+- [Video Query API](https://github.com/PARC-projects/video-query-api)
+- [Video Query Algorithms](https://github.com/PARC-projects/video-query-algorithms)
 
 ## Wiki
 
@@ -64,36 +57,6 @@ For detailed instruction on how to utilize this project, please have a look at o
 * [Algorithms]() 
   * TODO
 
-## Getting Started
-
-* TODO: Example step by step
-* TODO: ?
-
-## Projects
-
-* [Web Client](https://github.com/PARC-projects/video-query-client-web) - TODO: add one-liner description
-* [API](https://github.com/PARC-projects/video-query-api) - TODO: add one-liner description
-* [Algorithms](https://github.com/PARC-projects/video-query-algorithms) - TODO: add one-liner description
-
-# Video Query
-
-This project serves as the front-end deployment to the Video Query application. It uses [Angular 6.x](https://angular.io).
-
-This front end calls the RESTful Video Query API, which uses Video Query Algorithms.
-The API can be used independently as well, for video querying independent of this front end.
-The code and documentation for the API and Algorithms are at
-
-- [Video Query API](https://github.com/PARC-projects/video-query-api)
-- [Video Query Algorithms](https://github.com/PARC-projects/video-query-algorithms)
-
-For an overview of the Video Query project please see the reference [TBD arxiv pdf](https://arxiv.org/).
-
-## Wiki
-For detailed instruction on how to utilize this repository, please have a look at our Wiki
-
-- [Home](https://github.com/PARC-projects/video-query/wiki/Home)
-- [Start a dev or production servers](https://github.com/PARC-projects/video-query/wiki/Running-development-and-production-servers)
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull
@@ -103,13 +66,14 @@ requests to us.
 
 Include a citation for a paper when we publish one.  For now:
 If you find this repository useful, please cite
-[https://github.com/fetorres/video-query-api/](https://github.com/PARC-projects/video-query/).
+[https://github.com/PARC-projects/video-query-home](https://github.com/PARC-projects/video-query-home).
 
-### Authors
-
+#### Project team
+Software development:
 - [Frank Torres](https://github.com/fetorres)
 - [Chad Ramos](https://github.com/chad-ramos)
 
+Algorithm development by Frank Torres, Matthew Shreve, Gaurang Ganguli and Hoda Eldardiry.
 
 ## License
 
