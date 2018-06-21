@@ -45,11 +45,6 @@ Then go to the [Wiki](#wiki) for detailed instruction.
 - [Video Query API](https://github.com/PARC-projects/video-query-api)
 - [Video Query Algorithms](https://github.com/PARC-projects/video-query-algorithms)
 
-## Getting Started
-
-* TODO: Example step by step in wiki
-* TODO: ?
-
 ## Wiki
 
 For detailed instruction on how to utilize this project, please have a look at our Wiki
