@@ -23,7 +23,7 @@ _**Overview of Project:**_ The front end is an Angular 6.x application. It calls
 which uses Video Query Algorithms to perform deep learning calculations. 
 The API can also be used independently of the front end provided in this project. 
 
-![image](./High-level architecture.png)
+![image](high-level-architecture.png)
 
 _**Brief description of search algorithm:**_  The search algorithm uses embedded features from an ensemble of deep neural
 networks pre-trained on UCF-101 data using the Temporal Segment Networks approach (1). Similiarities of clips
