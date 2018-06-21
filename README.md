@@ -1,12 +1,15 @@
 - TODO:
     - Update three repos
         - Add a "Getting Started" note and point to getting started in this wiki.
-        - Migrate wiki to "Home" wiki.
-
 
 # Video Query Home
 
 TODO: Top-level explanation of entire video query project.
+
+## Getting Started
+
+* TODO: Example step by step in wiki
+* TODO: ?
 
 ## Wiki
 
@@ -24,11 +27,6 @@ For detailed instruction on how to utilize this project, please have a look at o
   - [Database](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Database)
   - [Conda](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Conda)
   - [Broker](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Broker)
-
-## Getting Started
-
-* TODO: Example step by step
-* TODO: ?
 
 ## Projects
 
