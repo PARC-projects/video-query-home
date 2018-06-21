@@ -19,9 +19,9 @@ is more agile than conventional supervised learning of video actions.  It does n
 of the actions of interest, nor a large upfront investment in labeling data. The collaborative search can also help a user discern what aspects of the video clips
 are important to match, since the user can experiment while giving feedback. 
 
-_**Overview of Project:**_ The front end is an Angular 6.x application. It calls the RESTful Video Query API, 
+_**Overview of Project:**_ The front end is an Angular 6.x web application. It calls the RESTful Video Query API, 
 which uses Video Query Algorithms to perform deep learning calculations. 
-The API can also be used independently of the front end provided in this project. 
+The API can also be used independently of the front end. 
 
 ![image](high-level-architecture.png)
 
