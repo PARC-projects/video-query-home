@@ -12,18 +12,18 @@ TODO: Top-level explanation of entire video query project.
 
 For detailed instruction on how to utilize this project, please have a look at our Wiki
 
-- [Home](/wiki/Home)
-- [Web Client](Web-Client)
-  - [Setup](Web-Client-Setup)
-- [API](Api)
-  - [Setup](Api-Setup)
-  - [Database](Api-Database)
-- [Algorithms](Algorithms)
-  - [Pipeline](Algorithms-Pipeline)
-  - [Command Line](Algorithms-Command-Line)
-  - [Database](Algorithms-Database)
-  - [Conda](Algorithms-Conda)
-  - [Broker](Algorithms-Broker)
+- [Home](https://github.com/PARC-projects/video-query-home/wiki/Home)
+- [Web Client](https://github.com/PARC-projects/video-query-home/wiki/Web-Client)
+  - [Setup](https://github.com/PARC-projects/video-query-home/wiki/Web-Client-Setup)
+- [API](https://github.com/PARC-projects/video-query-home/wiki/Api)
+  - [Setup](https://github.com/PARC-projects/video-query-home/wiki/Api-Setup)
+  - [Database](https://github.com/PARC-projects/video-query-home/wiki/Api-Database)
+- [Algorithms](https://github.com/PARC-projects/video-query-home/wiki/Algorithms)
+  - [Pipeline](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Pipeline)
+  - [Command Line](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Command-Line)
+  - [Database](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Database)
+  - [Conda](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Conda)
+  - [Broker](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Broker)
 
 ## Getting Started
 
