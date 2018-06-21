@@ -12,7 +12,7 @@ TODO: Top-level explanation of entire video query project.
 
 For detailed instruction on how to utilize this project, please have a look at our Wiki
 
-- [Home](Home)
+- [Home](wiki/Home)
 - [Web Client](Web-Client)
   - [Setup](Web-Client-Setup)
 - [API](Api)
