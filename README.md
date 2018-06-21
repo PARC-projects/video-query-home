@@ -1,7 +1,3 @@
-TODO:
-- Update three repos
-  - Add a "Getting Started" note and point to getting started in this wiki.
-
 # Video Query Home
 
 Software for agile example-driven search of video datasets. 
