@@ -12,12 +12,18 @@ TODO: Top-level explanation of entire video query project.
 
 For detailed instruction on how to utilize this project, please have a look at our Wiki
 
-* [Web Client]()
-  * TODO
-* [API]() 
-  * TODO
-* [Algorithms]() 
-  * TODO
+- [Home](Home)
+- [Web Client](Web-Client)
+  - [Setup](Web-Client-Setup)
+- [API](Api)
+  - [Setup](Api-Setup)
+  - [Database](Api-Database)
+- [Algorithms](Algorithms)
+  - [Pipeline](Algorithms-Pipeline)
+  - [Command Line](Algorithms-Command-Line)
+  - [Database](Algorithms-Database)
+  - [Conda](Algorithms-Conda)
+  - [Broker](Algorithms-Broker)
 
 ## Getting Started
 
