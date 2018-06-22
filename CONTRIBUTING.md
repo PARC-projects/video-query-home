@@ -35,7 +35,10 @@ demonstrating the expected behavior that is not occurring.
 
 #### **Are you ready to submit a PR?**
 
-Please send a GitHub Pull Request in the appropriate repository (Client, API, or Algorithms) with a clear list of
+Please send a GitHub Pull Request in the appropriate repository 
+([Client](https://github.com/PARC-projects/video-query-client-web/pulls), 
+[API](https://github.com/PARC-projects/video-query-api/pulls), or 
+[Algorithms](https://github.com/PARC-projects/video-query-algorithms/pulls)) with a clear list of
 what you've done (read more about [pull requests](https://help.github.com/articles/about-pull-requests/)).
 Please make sure all of your commits are atomic (one feature per commit).
 
