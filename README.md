@@ -54,7 +54,7 @@ For detailed instruction on how to utilize this project, please have a look at o
   - [Database](https://github.com/PARC-projects/video-query-home/wiki/Api-Database)
 - [Algorithms](https://github.com/PARC-projects/video-query-home/wiki/Algorithms)
   - [Pipeline](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Pipeline)
-  - [Command Line](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Command-Line)
+  - [Compute video features](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Compute-Video-Features)
   - [Database](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Database)
   - [Conda](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Conda)
   - [Broker](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Broker)
