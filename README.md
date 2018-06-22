@@ -48,6 +48,7 @@ For detailed instruction on how to utilize this project, please have a look at o
 - [Home](https://github.com/PARC-projects/video-query-home/wiki/Home)
 - [Web Client](https://github.com/PARC-projects/video-query-home/wiki/Web-Client)
   - [Setup](https://github.com/PARC-projects/video-query-home/wiki/Web-Client-Setup)
+  - [Example](https://github.com/PARC-projects/video-query-home/wiki/Web-Client-Example)
 - [API](https://github.com/PARC-projects/video-query-home/wiki/Api)
   - [Setup](https://github.com/PARC-projects/video-query-home/wiki/Api-Setup)
   - [Database](https://github.com/PARC-projects/video-query-home/wiki/Api-Database)
