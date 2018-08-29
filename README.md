@@ -52,6 +52,7 @@ For detailed instruction on how to utilize this project, please have a look at o
 - [API](https://github.com/PARC-projects/video-query-home/wiki/Api)
   - [Setup](https://github.com/PARC-projects/video-query-home/wiki/Api-Setup)
   - [Database](https://github.com/PARC-projects/video-query-home/wiki/Api-Database)
+  - [Tests](https://github.com/PARC-projects/video-query-home/wiki/Api-Tests)
 - [Algorithms](https://github.com/PARC-projects/video-query-home/wiki/Algorithms)
   - [Pipeline](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Pipeline)
   - [Compute video features](https://github.com/PARC-projects/video-query-home/wiki/Algorithms-Compute-Video-Features)
